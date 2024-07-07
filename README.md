@@ -10,7 +10,7 @@
 
 ## 原始项目
 你可以在以下链接找到原始项目：
-<a href="https://www.buymeacoffee.com/luhaifeng">[原始项目链接]</a>
+<a href="https://github.com/luhaifeng666/kana-playground">[原始项目链接]</a>
 
 
 
